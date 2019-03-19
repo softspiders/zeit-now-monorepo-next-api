@@ -5,7 +5,8 @@ const profile = require('./profile')
 const dev = async (req, res) => {
   switch (req.url) {
     case '/api/profile.js':
-      await profile(req, res)
+      //await profile(req, res)
+      send(res, 200, '200!!!')
       break
     case '/api/login.js':
       await login(req, res)

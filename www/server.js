@@ -15,7 +15,7 @@ app.prepare().then(() => {
     const parsedUrl = parse(req.url, true)
     const { pathname, query } = parsedUrl
 
-    console.log('server: pathname = ' + pathname);
+    //console.log('server: pathname = ' + pathname);
     switch (pathname) {
       case '/':
         app.render(req, res, '/', query)
