@@ -14,4 +14,25 @@ Yet absent
 
 ---
 
-TBD...
+
+## Install
+
+```sh
+yarn
+```
+
+## Running
+
+```sh
+yarn start
+```
+
+And open localhost:3000 in the web-browser
+
+## Authors
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+### License
+
+Licensed under the [MIT license](./LICENSE).
