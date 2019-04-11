@@ -14,20 +14,7 @@ Yet absent
 
 ---
 
-
-## Install
-
-```sh
-yarn
-```
-
-## Running
-
-```sh
-yarn start
-```
-
-And open localhost:3000 in the web-browser
+TBD...
 
 ## Authors
 
