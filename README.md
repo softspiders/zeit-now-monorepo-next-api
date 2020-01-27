@@ -10,7 +10,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[zeit-micro](https://github.com/softspider/zeit-micro)
+[zeit-micro](https://github.com/softspiders/zeit-micro)
 
 ---
 
