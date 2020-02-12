@@ -8,6 +8,21 @@ SOFTSPIDERS
 
 ---
 
+## Feature tags
+
+- api
+- micro
+- monorepo
+- next
+- node
+- now
+- rest
+- starter
+- template
+- zeit
+
+---
+
 ## Direct ancestors
 
 [zeit-micro](https://github.com/softspiders/zeit-micro)
