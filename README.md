@@ -1,4 +1,5 @@
-SOFTSPIDERS
+
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # zeit-now-monorepo-next-api
 
